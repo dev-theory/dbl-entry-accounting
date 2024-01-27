@@ -10,7 +10,7 @@ const processTransaction = accountingEngine({ coa, rules })
 
 const someTransaction = {
   id: "2dc75475-d13c-4d10-a6bc-01b31a23be95",
-  trDate: "2024-01-20",
+  postedDate: "2024-01-20",
   entity: {
     type: "Sale",
     ... // other entity fields here
