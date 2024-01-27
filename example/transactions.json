@@ -1,7 +1,7 @@
 [
   {
     "id": "f345e665-fadf-494d-b091-1dc51141e809",
-    "trDate": "2024-01-07",
+    "postedDate": "2024-01-07",
     "entity": {
       "type": "Purchase",
       "description": "Purchase - Flour from WindyMills",
@@ -14,7 +14,7 @@
   },
   {
     "id": "801686b6-513d-422f-b65f-70326d8bfda4",
-    "trDate": "2024-01-08",
+    "postedDate": "2024-01-08",
     "entity": {
       "type": "Purchase",
       "description": "Purchase - Eggs from Happy Farm",
@@ -27,7 +27,7 @@
   },
   {
     "id": "2dc75475-d13c-4d10-a6bc-01b31a23be95",
-    "trDate": "2024-01-20",
+    "postedDate": "2024-01-20",
     "entity": {
       "type": "Sale",
       "product": {
@@ -41,7 +41,7 @@
   },
   {
     "id": "58baf4ab-e228-4f34-aed0-513388c277da",
-    "trDate": "2024-01-20",
+    "postedDate": "2024-01-20",
     "entity": {
       "type": "Sale",
       "product": {
@@ -55,7 +55,7 @@
   },
   {
     "id": "b371522a-bf05-4510-87cc-2b738134842a",
-    "trDate": "2024-01-20",
+    "postedDate": "2024-01-20",
     "entity": {
       "type": "Sale",
       "product": {
